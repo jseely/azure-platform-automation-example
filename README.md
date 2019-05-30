@@ -19,6 +19,7 @@ This workshop will walk you through the process of deploying **Pivotal Cloud Fou
 - [Terraform](https://www.terraform.io/downloads.html)
 - [OM CLI](https://github.com/pivotal-cf/om)
 - [BOSH CLI](https://github.com/cloudfoundry/bosh-cli/releases)
+- [CredHub CLI](https://github.com/cloudfoundry-incubator/credhub-cli)
 
 <a id="install"></a>
 
